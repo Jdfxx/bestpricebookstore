@@ -1,6 +1,4 @@
-package com.mudra.bestpricebookstore;
-
-import pl.filiphagno.bestpricebookstore.RestCallStatistics;
+package pl.filiphagno.bestpricebookstore;
 
 import java.util.List;
 

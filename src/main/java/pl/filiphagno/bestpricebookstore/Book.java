@@ -1,4 +1,4 @@
-package com.mudra.bestpricebookstore;
+package pl.filiphagno.bestpricebookstore;
 
 /**
  * Represents a book 
